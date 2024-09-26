@@ -21,7 +21,7 @@ repository               : "lucile-bottein/lucile-bottein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.jpg"
+  avatar           : "profile.jpg"
   name             : "Lucile Bottein"
   pronouns         : "they/them"  
   bio              : "I am a PhD student working with Dr Julie Grèzes (LNC2) and Dr Lou Safra (CEVIPOF) on the cognitive mechanisms generating implicit race and gender biases."
